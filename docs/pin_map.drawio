@@ -1,0 +1,25 @@
+<mxfile host="65bd71144e">
+    <diagram id="Gb6qHPLxHt-QPzLhnMZ5" name="Page-1">
+        <mxGraphModel dx="237" dy="356" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="2" value="STM32F411 Blackpill" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="200" y="80" width="120" height="310" as="geometry"/>
+                </mxCell>
+                <mxCell id="3" value="USB" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="240" y="50" width="40" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="6" value="status_led_pin - PB12&lt;br&gt;axis_1_sense_pin - PB13&lt;br&gt;PB14&lt;br&gt;limit_pin - PB15&lt;br&gt;power_led_pin - PA8&lt;br&gt;PA9&lt;br&gt;PA10&lt;br&gt;PA11&lt;br&gt;PA12&lt;br&gt;PA15&lt;br&gt;PB3&lt;br&gt;PB4&lt;br&gt;PB5&lt;br&gt;PB6&lt;br&gt;PB7&lt;br&gt;PB8&lt;br&gt;PB9&lt;br&gt;5V&lt;br&gt;GND&lt;br&gt;3V3" style="text;html=1;align=right;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="40" y="80" width="160" height="300" as="geometry"/>
+                </mxCell>
+                <mxCell id="8" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;5V&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;GND&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;3V3&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;PB10 - axis_1_step_pin&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;PB2 - axis_1_dir_pin&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;PB1&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;PB0 - esp8266&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;_boot_pin&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;PA7 - axis_1_2_mosi&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;PA6 - axis_1_2_miso&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;PA5 - axis_1_2_sck&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;PA4 - axis_2_step_pin&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;PA3&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;PA2&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;PA1 - axis_1_cs&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;PA0 - axis_2_cs&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;NRST&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;PC15&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;PC14&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;PC13&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;VBAT&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;verticalAlign=top;align=left;fillColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="320" y="80" width="170" height="310" as="geometry"/>
+                </mxCell>
+                <mxCell id="9" value="&lt;div style=&quot;&quot;&gt;3V3&lt;/div&gt;&lt;div style=&quot;&quot;&gt;esp8266_rst_pin - PA13&lt;/div&gt;&lt;div style=&quot;&quot;&gt;tone_pin - PA14&lt;/div&gt;&lt;div style=&quot;&quot;&gt;GND&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;verticalAlign=top;align=right;fillColor=none;horizontal=0;" vertex="1" parent="1">
+                    <mxGeometry x="225" y="390" width="70" height="140" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
